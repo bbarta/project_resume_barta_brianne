@@ -31,3 +31,23 @@ main {
   padding-bottom: 25px;
 
 }
+
+
+#education {
+  background-color: silver;
+  width: 100%;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+
+}
+
+
+#skills {
+  background-color: orange;
+  width: 100%;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+
+}
