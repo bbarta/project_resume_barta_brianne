@@ -1,0 +1,23 @@
+/* #container {
+  background-color: blue;
+  width: 100%;
+}
+*/
+
+
+header {
+  background-color: purple;
+  width: 100%;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+
+main {
+  background-color: red;
+  width: 100%;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
