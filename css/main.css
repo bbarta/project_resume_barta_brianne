@@ -49,6 +49,7 @@ main {
 
 }
 
+
 .p20 {
   padding-top: 20px;
 }
@@ -57,9 +58,10 @@ main {
   padding-top: 30px;
 }
 
+.p50 {
+  padding-top: 50px;
 
-
-
+}
 
 #education h2 {
   color: #FF6312;
