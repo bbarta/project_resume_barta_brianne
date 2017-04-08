@@ -5,9 +5,10 @@
 */
 
 
-header, main, #experience, #education, #skills, #contact  {
+header, main, #experience, #education, #skills, #contact {
   font-family: 'Poppins', sans-serif;
 }
+
 
 
 header {
@@ -21,12 +22,12 @@ header {
   font-family: 'Poppins', sans-serif;
 }
 
-header h2 {
-  color: orange;
+main h2 {
+  color: white;
 }
 
 main {
-  background-color: red;
+  background-color: orange;
   width: 100%;
   text-align: center;
   padding-top: 25px;
