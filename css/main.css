@@ -5,7 +5,7 @@
 */
 
 
-header, main, #experience, #education, #skills, #contact {
+header, main, #experience, #education, #books, #contact {
   font-family: 'Poppins', sans-serif;
 }
 
@@ -25,6 +25,7 @@ header {
 main h2 {
   color: #FF6312;
 }
+
 
 main {
   background-color: #FFFBE1;
@@ -49,6 +50,10 @@ main {
 
 }
 
+#about, #jobs {
+  width: 70%;
+  margin: auto;
+}
 
 .p20 {
   padding-top: 20px;
@@ -78,7 +83,7 @@ main {
 }
 
 
-#skills {
+#books {
   background-color: #FF6312;
   width: 100%;
   text-align: center;
