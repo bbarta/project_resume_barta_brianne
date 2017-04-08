@@ -18,16 +18,16 @@ header {
   padding-top: 25px;
   padding-bottom: 25px;
   background-image: url('../img/header-01.png');
-  background-size: 100% auto;
+  background-size: cover;
   font-family: 'Poppins', sans-serif;
 }
 
 main h2 {
-  color: white;
+  color: #FF6312;
 }
 
 main {
-  background-color: orange;
+  background-color: #FFFBE1;
   width: 100%;
   text-align: center;
   padding-top: 25px;
@@ -36,7 +36,7 @@ main {
 
 
 #experience {
-  background-color: pink;
+  background-color: #FF9425;
   width: 100%;
   text-align: center;
   padding-top: 25px;
@@ -44,9 +44,18 @@ main {
 
 }
 
+#experience h3 {
+  color: white;
+
+}
+
+#education h2 {
+  color: #FF6312;
+
+}
 
 #education {
-  background-color: silver;
+  background-color: #FFFBE1;
   width: 100%;
   text-align: center;
   padding-top: 25px;
@@ -56,7 +65,7 @@ main {
 
 
 #skills {
-  background-color: orange;
+  background-color: #FF6312;
   width: 100%;
   text-align: center;
   padding-top: 25px;
@@ -67,7 +76,7 @@ main {
 
 
 #contact {
-  background-color: yellow;
+  background-color: white;
   width: 100%;
   text-align: center;
   padding-top: 25px;
