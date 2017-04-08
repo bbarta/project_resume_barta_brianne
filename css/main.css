@@ -50,7 +50,7 @@ main {
 
 }
 
-#about, #jobs {
+#about, #jobs, #read {
   width: 70%;
   margin: auto;
 }
@@ -71,6 +71,10 @@ main {
 #education h2 {
   color: #FF6312;
 
+}
+
+.white {
+  color: white;
 }
 
 #education {
