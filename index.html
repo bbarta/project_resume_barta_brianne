@@ -17,6 +17,13 @@
       $(window).load(function(){
         $("#sticker").sticky({topSpacing:0});
       });
+
+
+      $(document).ready(function(){
+        $(".gators").click(function(){
+        $(".knights").hide();
+    });
+});
     </script>
 </head>
 <body>
@@ -59,9 +66,12 @@
       <h3 class="p20">University of Florida | Degree in Progress</h3>
         <p>Master of Arts in Mass Communication</p>
 
-      <img class="p20" src="img/school-02.png"/>
-      <h3 class="p30">University of Central Florida | 2012</h3>
-        <p>Bachelor of Arts in Advertising/Public Relations</p>
+      <section class="knights">
+        <img class="p20" src="img/school-02.png"/>
+        <h3 class="p30">University of Central Florida | 2012</h3>
+          <p>Bachelor of Arts in Advertising/Public Relations</p>
+          <button class="gators">Boo, Go Gators!</button>
+      </section>
     </section>
 
     <section id="books">
